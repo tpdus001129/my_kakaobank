@@ -1,8 +1,8 @@
 # 💰 my kakaobank (개인 프로젝트)
 
-카카오뱅크 클론코딩 프로젝트<br/>
-[https://tpdus001129.github.io/my_kakaobank/](https://tpdus001129.github.io/my_kakaobank/)  
-<br/>
+[https://tpdus001129.github.io/my_kakaobank/](https://tpdus001129.github.io/my_kakaobank/)<br/><br/>
+카카오뱅크 클론코딩 프로젝트
+<br/><br/>
 
 ## 기술스택
 
